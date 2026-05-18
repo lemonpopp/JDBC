@@ -8,3 +8,10 @@ JDBC01/.settings/org.eclipse.jdt.core.prefs
 JDBC01/.settings/org.eclipse.ltk.core.refactoring.prefs
 JDBC01/bin/com/test01/JDBCTest02.class
 JDBC01/bin/com/test01/JDBCTest02_2.class
+JDBC01/bin/com/test01/JDBCTest03.class
+JDBC01/bin/com/test01/JDBCTest04.class
+JDBC01/bin/com/test01/JDBCTest05.class
+JDBC01/bin/com/test01/JDBCTest06.class
+JDBC01/bin/com/test01/JDBCTest07.class
+JDBC01/bin/com/test01/JDBCTest08.class
+JDBC01/bin/common/JDBCTemplate.class
