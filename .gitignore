@@ -15,3 +15,8 @@ JDBC01/bin/com/test01/JDBCTest06.class
 JDBC01/bin/com/test01/JDBCTest07.class
 JDBC01/bin/com/test01/JDBCTest08.class
 JDBC01/bin/common/JDBCTemplate.class
+JDBC02/.classpath
+JDBC02/.gitignore
+JDBC02/.project
+JDBC02/.settings/org.eclipse.core.resources.prefs
+JDBC02/.settings/org.eclipse.jdt.core.prefs
