@@ -13,6 +13,7 @@ public class MyTestView {
 	public void menu() {
 		int no =0;
 		while(no != 6) {
+			System.out.println("---MyTest---");
 			System.out.println("------------");
 			System.out.println("1. 전체 출력");
 			System.out.println("2. 선택 출력");
@@ -102,9 +103,9 @@ public class MyTestView {
 	public MyTest inputUpdate() {
 		System.out.print("수정할 번호: ");
 		int no = sc.nextInt();
-		System.out.println("수정할 이름: ");
+		System.out.print("수정할 이름: ");
 		String name = sc.next();
-		System.out.println("수정할 별칭: ");
+		System.out.print("수정할 별칭: ");
 		String nickName = sc.next();
 		
 		MyTest m = new MyTest();
